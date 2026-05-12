@@ -27,6 +27,12 @@ I also noticed that the current Cursor version (v3.3.30) differs from many exist
 Despite being new to this workflow, I was able to complete the full setup process quickly and successfully.
 - After researching, I found that newer Cursor versions already include integrated AI agents and workflows.
 - I continued the setup using the built-in AI capabilities available in the latest version.
+  
+- ## Personal Reflection
+
+During the setup process, I accidentally configured Git with the wrong email address at first. I researched how Git global configuration works and corrected it quickly without restarting the project.
+
+In only a few hours, I was able to understand the relationship between Cursor, Git, and GitHub, and how they work together in a real workflow for version control and project management.
 
 ## What I Learned
 - Basic GitHub workflow
